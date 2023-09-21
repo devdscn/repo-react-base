@@ -1,0 +1,1 @@
+export const BOTA_CLICADO = 'BOTAO_CLICADO';
